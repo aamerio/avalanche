@@ -1,0 +1,29 @@
+# user_activities: USER ACTIVITIES
+# user_tasks: USER TASKS
+# user_stories: USER STORIES
+# release1: RELEASE 1
+# release2: RELEASE 2
+# release3: RELEASE 3
+USER ACTIVITY
+    USER TASK
+        USER STORY
+ACCESSO
+    Autenticazione
+        Username/email e password
+    Registrazione
+        conferma via email (solo entro il dominio)
+DASHBOARD
+    Pannello statico
+        visualizzazione lista scadenze
+        visualizzazione statistiche
+RICERCA
+    Ricerca libera
+        Campo stile Google
+    Lista
+        Tabellare con campi filtro
+GESTIONE
+    CRUD (proprietà statiche o dinamiche?)
+        Inserimento prodotto
+        Modifica prodotto
+        Cancellazione prodotto
+
